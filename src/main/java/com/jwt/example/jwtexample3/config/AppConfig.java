@@ -37,6 +37,6 @@ public class AppConfig {
 }
 
 
-// SUraj Bhete
-// Date of brith-14/10/1998
-//place:latur
+// Suraj Bhete
+// Date of birth-14/08/1998
+// college: DYP
