@@ -37,5 +37,5 @@ public class AppConfig {
 }
 
 
-// SUraj Bhete
-// Date of brith-14/08/1998
+// Suraj Bhete
+// Date of birth-14/08/1998
