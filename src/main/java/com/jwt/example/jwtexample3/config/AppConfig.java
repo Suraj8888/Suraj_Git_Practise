@@ -38,5 +38,5 @@ public class AppConfig {
 
 
 // SUraj Bhete
-// Date of brith-14/09/1998
+// Date of brith-14/10/1998
 //place:latur
